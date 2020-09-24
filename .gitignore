@@ -23,3 +23,7 @@ out/
 ./package-lock.json
 .idea
 /lib
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
